@@ -1,0 +1,9 @@
+# version: 1.0.0
+
+# Ignore Visual Studio folders and files
+.vs/
+*.user
+
+# Ignore Build output folders
+bin/
+obj/
